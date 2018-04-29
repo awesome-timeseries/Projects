@@ -1,0 +1,158 @@
+{
+    "./data/D1/d1-22me.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.9999,
+        "ws": 3
+    },
+	"./data/D1/d1-22n4.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.9999,
+        "ws": 3
+    },
+	"./data/D1/d1-22pw.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D1/d1-22qu.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D1/d1-22ta.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D1/d1-22xz.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D1/d1-22y1.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D1/d1-2324.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D1/d1-ecg-1.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D1/d1-ecg-2.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D2/d2-22me.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D2/d2-22xz.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D2/d2-22yw.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D2/d2-ecg-1.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D2/d2-ecg-2.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D3/d3-22me.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D3/d3-22xz.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D3/d3-22yw.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D3/d3-ecg-1.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D3/d3-ecg-2.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D4/d4-22me-ba.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D4/d4-22me-outliers.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D4/d4-22yw-ba.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D4/d4-22yw-outliers.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D4/d4-ecg-1.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    },
+	"./data/D4/d4-ecg-2.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.999999,
+        "ws": 3
+    }
+}
