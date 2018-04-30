@@ -8,4 +8,3 @@ if __name__ == '__main__':
     app.register_blueprint(result)
     app.register_blueprint(analyze)
     app.run(debug=True)
-

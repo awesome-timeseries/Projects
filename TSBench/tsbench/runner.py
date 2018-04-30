@@ -10,11 +10,13 @@ from multiprocessing import Pool
 
 anomaly_results = {}
 
+
 def detectSingle(k, value, label, proportion):
     """ k is filename. """
     sd = selectedDetector(k, value, label, proportion)
     result = sd.run() # return index of detected abnormal points
     return (k, result)
+
 
 def collect_results(data):
     global anomaly_results
@@ -23,7 +25,7 @@ def collect_results(data):
 
 def detect(values, labels, proportion):
     """ execute self-defined detectors"""
-    p = Pool()        
+    p = Pool()       
     for k in values:
         p.apply_async(detectSingle, (k, values[k], labels[k], proportion), callback=collect_results)
     p.close()
