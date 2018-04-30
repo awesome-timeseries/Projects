@@ -7,17 +7,14 @@ Python 2.7
 
 ## Usage
 ### step 1:
-<pre><code>
-cd NAB
-(sudo) pip install -r requirements.txt
-</code></pre>
+<pre><code>cd NAB
+(sudo) pip install -r requirements.txt</code></pre>
 
 ### step 2:
 write your own algorithm based on ./tsbench/algorithms/base.py
 
 ### step 3:
-<pre><code>
-python run.py algorithmName proportion scoringMechanism [--delay integer]</pre></code>
+<pre><code>python run.py algorithmName proportion scoringMechanism [--delay integer]</pre></code>
 If finished successfully, you can find detected results in ./results/
 
 ## step 4:
