@@ -154,5 +154,11 @@
         "f_ms": 0.9,
         "threshold": 0.999999,
         "ws": 3
+    },
+	"./data/D4/changepoint.csv": {
+        "f_rls": 0.9,
+        "f_ms": 0.9,
+        "threshold": 0.99999,
+        "ws": 3
     }
 }

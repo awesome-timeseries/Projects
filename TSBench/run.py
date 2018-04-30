@@ -17,7 +17,7 @@ if __name__ == '__main__':
         assert args.delay >= 0
 
     adjust(args.algorithmName)
-
+    print 'This might take a few minutes. Please wait...'
     import datetime
     starttime = datetime.datetime.now()
     runner.execute(args.algorithmName, args.proportion, args.scoring, args.delay)
