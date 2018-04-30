@@ -7,7 +7,7 @@ Other platforms may work but have not been tested.
 Python 2.7
 
 ## Big Picture
-![image]big-picture.png
+![image](big-picture.png)
 
 ## Usage
 ### step 1:
