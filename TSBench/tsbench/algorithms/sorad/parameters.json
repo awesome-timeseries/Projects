@@ -18,9 +18,9 @@
         "ws": 3
     },
 	"./data/D1/d1-22qu.csv": {
-        "f_rls": 0.9,
+        "f_rls": 0.95,
         "f_ms": 0.9,
-        "threshold": 0.999999,
+        "threshold": 0.9999,
         "ws": 3
     },
 	"./data/D1/d1-22ta.csv": {
@@ -36,7 +36,7 @@
         "ws": 3
     },
 	"./data/D1/d1-22y1.csv": {
-        "f_rls": 0.9,
+        "f_rls": 0.85,
         "f_ms": 0.9,
         "threshold": 0.999999,
         "ws": 3
@@ -90,9 +90,9 @@
         "ws": 3
     },
 	"./data/D3/d3-22me.csv": {
-        "f_rls": 0.9,
+        "f_rls": 0.85,
         "f_ms": 0.9,
-        "threshold": 0.999999,
+        "threshold": 0.9999,
         "ws": 3
     },
 	"./data/D3/d3-22xz.csv": {
@@ -102,10 +102,10 @@
         "ws": 3
     },
 	"./data/D3/d3-22yw.csv": {
-        "f_rls": 0.9,
+        "f_rls": 0.8,
         "f_ms": 0.9,
-        "threshold": 0.999999,
-        "ws": 3
+        "threshold": 0.9999999999,
+        "ws": 4
     },
 	"./data/D3/d3-ecg-1.csv": {
         "f_rls": 0.9,
@@ -138,16 +138,16 @@
         "ws": 3
     },
 	"./data/D4/d4-22yw-outliers.csv": {
-        "f_rls": 0.9,
-        "f_ms": 0.9,
-        "threshold": 0.999999,
+        "f_rls": 0.85,
+        "f_ms": 0.8,
+        "threshold": 0.99999999999,
         "ws": 3
     },
 	"./data/D4/d4-ecg-1.csv": {
-        "f_rls": 0.9,
-        "f_ms": 0.9,
-        "threshold": 0.999999,
-        "ws": 3
+        "f_rls": 0.85,
+        "f_ms": 0.8,
+        "threshold": 0.999999999,
+        "ws": 4
     },
 	"./data/D4/d4-ecg-2.csv": {
         "f_rls": 0.9,
